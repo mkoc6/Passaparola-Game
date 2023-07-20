@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passaparola_Oyun_3.Proje", "Passaparola_Oyun_3.Proje\Passaparola_Oyun_3.Proje.csproj", "{A0F86836-9226-4C2F-B0BA-6BF1982F4808}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WORDGAMES", "WORDGAMES\WORDGAMES.vdproj", "{692EB788-2C82-44A0-965D-E8E2D259E3DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F86836-9226-4C2F-B0BA-6BF1982F4808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F86836-9226-4C2F-B0BA-6BF1982F4808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F86836-9226-4C2F-B0BA-6BF1982F4808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F86836-9226-4C2F-B0BA-6BF1982F4808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692EB788-2C82-44A0-965D-E8E2D259E3DE}.Debug|Any CPU.ActiveCfg = Debug
+		{692EB788-2C82-44A0-965D-E8E2D259E3DE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA05DDF7-9723-4894-AF3D-B5E5435A9E29}
+	EndGlobalSection
+EndGlobal
